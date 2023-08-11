@@ -34,3 +34,19 @@ body {
 .imagem-principal {
     padding-left: 700px;
 }
+
+.section-principal {
+    position: absolute;
+    margin-top: -600px;
+    padding-left: 100px;
+}
+
+.texto-um {
+    color: orangered;
+    font-weight: bold;
+}
+
+.texto-dois {
+    font-size: 64px;
+    font-weight: bold;
+}
