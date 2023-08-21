@@ -84,6 +84,7 @@ span {
     .botao {
         background: none;
         border: none;
+        color: black;
     }
 
     .logo {
@@ -125,7 +126,7 @@ span {
         position: absolute;
         margin-top: 0;
         padding-left: 0;
-        margin-top: -200px;
+        margin-top: -300px;
     }
 
     .texto-dois {
@@ -133,7 +134,7 @@ span {
     }
 
     .texto-um {
-        font-size: 20px;
+        font-size: 18px;
         width: 50%;
     }
 
