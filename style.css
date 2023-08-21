@@ -114,6 +114,7 @@ span {
     .imagem-principal {
         width: 300px;
         padding-left: 0;
+        margin-top: 50px;
     }
 
     .imagem {
@@ -139,7 +140,7 @@ span {
     }
 
     p {
-        width: 50%;
+        width: 30%;
         font-size: 14px;
     }
     
