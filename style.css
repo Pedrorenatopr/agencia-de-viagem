@@ -105,5 +105,40 @@ span {
     .menu-lista {
         display: none;
     }
+
+    body {
+        background: none;
+    }
+
+    .imagem-principal {
+        width: 300px;
+        padding-left: 0;
+    }
+
+    .imagem {
+        display: flex;
+        justify-content: end;
+        padding-top: 30px;
+    }
+
+    .section-principal {
+        position: absolute;
+        margin-top: 0;
+        padding-left: 0;
+        margin-top: -200px;
+    }
+
+    .texto-dois {
+        font-size: 18px;
+    }
+
+    .texto-um {
+        font-size: 20px;
+        width: 50%;
+    }
+
+    p {
+        width: 50%;
+    }
     
 }
