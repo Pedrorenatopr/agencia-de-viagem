@@ -126,8 +126,8 @@ span {
     .section-principal {
         position: absolute;
         margin-top: 0;
-        padding-left: 0;
-        margin-top: -350px;
+        padding-left: 10px;
+        margin-top: -340px;
     }
 
     .texto-dois {
