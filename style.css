@@ -4,7 +4,8 @@ body {
     background-image: url("Decore.png");
     background-repeat: no-repeat;
     background-position: right;
-    background-size: 1000px;
+    background-size: 75%;
+
 }
 
 .icones {
@@ -74,6 +75,37 @@ span {
     padding-left: 70px;
 }
 
+.texto-section-dois {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.titulo-section-dois {
+    text-align: center;
+}
+
+
+.section-dois {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.titulo-card {
+    font-weight: bold;
+}
+
+.texto-card {
+    font-size: 14px;
+}
+
+
+.card {
+    padding: 2em;
+    
+}
+
 @media screen and (max-device-width: 700px) {
 
     .icones {
@@ -141,6 +173,40 @@ span {
     p {
         width: 30%;
         font-size: 14px;
+    }
+
+    .texto-section-dois {
+        text-align: center;
+        padding-top: 100px;
+        width: 100%;
+    }
+
+    .titulo-section-dois {
+        text-align: center;
+        font-size: 18px;
+    }
+
+    .texto-card {
+        font-size: 12px;
+    }
+
+
+    .titulo-card {
+        font-weight: bold;
+        font-size: 12px;
+    }
+    
+
+    .section-dois {
+        display: grid;
+        grid-template-columns: 25% 25% 25% 25%;
+        justify-content: center;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .teste {
+        width: 50px;
     }
     
 }
