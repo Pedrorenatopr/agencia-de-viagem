@@ -1,10 +1,7 @@
 body {
     background-color: white;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("Decore.png");
-    background-repeat: no-repeat;
-    background-position: right;
-    background-size: 75%;
+
 
 }
 
@@ -110,6 +107,47 @@ span {
     width: 80px;
     height: 80px;
 }
+
+.texto-section-tres {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.titulo-section-tres {
+    text-align: center;
+}
+
+.section-tres {
+    display: flex;
+    justify-content: center;
+}
+
+.card-tres {
+    padding: 2em;
+    border-radius: 10px;
+}
+
+.preco {
+    text-align: end;
+}
+
+.pais {
+    position: absolute;
+}
+
+#seta {
+    position: absolute;
+    text-align: left;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.dias {
+    padding-left: 30px;
+}
+
+
+
 
 @media screen and (max-device-width: 700px) {
 
