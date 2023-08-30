@@ -260,5 +260,15 @@ span {
         width: 50px;
         height: 50px;
     }
+
+    .texto-section-tres {
+        width: 100%;
+    }
+
+    .card-teste {
+        display: grid;
+        justify-content: center;
+    }
+    
     
 }
