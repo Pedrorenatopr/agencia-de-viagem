@@ -192,7 +192,36 @@ span {
     padding-top: 50px;
 }
 
+.card-quatro-dois {
+    position: absolute;
+    margin-top: -400px;
+    padding-left: 600px;
+}
 
+.texto-direita {
+    font-weight: bold;
+}
+
+.data {
+    color: gray;
+}
+
+
+.teste-texto {
+    color: gray;
+    left: 0;
+    padding-left: 10px;
+}
+
+.coracao {
+    text-align: center;
+    padding-left: 140px;
+}
+
+.card-direita {
+    background-color: rgb(246, 246, 246);
+    border-radius: 10px;
+}
 
 @media screen and (max-device-width: 700px) {
 
