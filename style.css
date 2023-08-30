@@ -270,5 +270,10 @@ span {
         justify-content: center;
     }
     
+    .preco {
+        text-align: end;
+        padding-right: 5px;
+        width: 98%;
+    }
     
 }
