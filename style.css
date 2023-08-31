@@ -384,6 +384,10 @@ span {
         position: absolute;
         margin-top: 0;
         padding-left: 0;
+        display: flex;
+        justify-content: center;
+        width: 90%;
+        padding-top: 50px;
     }
 
     .titulo-quatro {
