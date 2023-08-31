@@ -234,6 +234,31 @@ span {
 
 }
 
+.titulo-cinco {
+    font-weight: bold;
+    color: gray;
+}
+
+.section-cinco {
+    padding-top: 100px;
+    padding-left: 500px;
+}
+
+.card-cinco {
+    position: absolute;
+    margin-top: -140px;
+    padding-left: 500px;
+}
+
+.maike {
+    font-weight: bold;
+}
+
+.maike-pais {
+    font-size: 12px;
+    line-height: 0;
+}
+
 @media screen and (max-device-width: 700px) {
 
     .icones {
@@ -413,4 +438,37 @@ span {
         width: 100%;
     }
 
+    .section-cinco {
+        padding-top: 500px;
+        padding-left: 0;
+        text-align: center;
+    }
+    
+    .card-cinco {
+        position: absolute;
+        margin-top: 0;
+        padding-left: 0;
+    }
+
+    .texto-card-cinco {
+        text-align: center;
+        width: 90vw;
+    }
+    
+    .titulo-cinco {
+        font-weight: bold;
+        color: gray;
+        text-align: center;
+        width: 100%;
+    }
+    
+    .maike {
+        text-align: center;
+        width: 100%;
+    }
+
+    .maike-pais {
+        text-align: center;
+        width: 100%;
+    }
 }
