@@ -270,6 +270,42 @@ span {
     padding: 2em;
 }
 
+.section-sete {
+    margin-top: 100px;
+
+}
+
+.texto-sete {
+    text-align: center;
+    color: gray;
+}
+
+.section-sete {
+    text-align: center;
+}
+
+.botao-sete {
+    text-align: center;
+    background-color: #FF946D;
+    border: none;
+    height: 50px;
+    border-radius: 10px;
+    width: 150px;
+    color: white;
+}
+
+.email {
+    height: 50px;
+    background-color: rgb(228, 224, 224);
+    border-radius: 10px;
+    border: none;
+}
+
+.itens-sete {
+    padding: 3em;
+}
+
+
 @media screen and (max-device-width: 700px) {
 
     .icones {
