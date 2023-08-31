@@ -259,6 +259,17 @@ span {
     line-height: 0;
 }
 
+
+.section-seis {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+}
+
+.patrocinio {
+    padding: 2em;
+}
+
 @media screen and (max-device-width: 700px) {
 
     .icones {
@@ -470,5 +481,14 @@ span {
     .maike-pais {
         text-align: center;
         width: 100%;
+    }
+
+    .section-seis {
+        display: grid;
+        padding-top: 150px;
+    }
+
+    #patrocinio-img {
+        height: 25px;
     }
 }
