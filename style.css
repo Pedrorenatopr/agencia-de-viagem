@@ -123,7 +123,7 @@ span {
 
 .card-tres {
     border-radius: 10px;
-    background-color: rgb(239, 234, 234);
+    background-color: rgb(246, 246, 246);
     overflow: hidden;
 }
 
@@ -200,10 +200,12 @@ span {
 
 .texto-direita {
     font-weight: bold;
+    padding-left: 5px;
 }
 
 .data {
     color: gray;
+    padding-left: 5px;
 }
 
 
@@ -218,9 +220,18 @@ span {
     padding-left: 140px;
 }
 
+.predio {
+    padding-left: 5px;
+}
+
 .card-direita {
     background-color: rgb(246, 246, 246);
     border-radius: 10px;
+}
+
+.cartao-quatro {
+    padding-left: 400px;
+
 }
 
 @media screen and (max-device-width: 700px) {
