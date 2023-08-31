@@ -282,6 +282,7 @@ span {
 
 .section-sete {
     text-align: center;
+    left: 0;
 }
 
 .botao-sete {
@@ -303,6 +304,15 @@ span {
 
 .itens-sete {
     padding: 3em;
+}
+
+.botoes-sete {
+    display: flex;
+    justify-content: center;
+}
+
+.icones-sete-itens {
+    padding: 1em;
 }
 
 
@@ -526,5 +536,9 @@ span {
 
     #patrocinio-img {
         height: 25px;
+    }
+
+    .icones-sete {
+        display: grid;
     }
 }
