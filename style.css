@@ -315,6 +315,39 @@ span {
     padding: 1em;
 }
 
+.titulo-footer {
+    padding-left: 400px;
+}
+
+.legenda-footer {
+    padding-left: 400px;
+}
+
+.footer {
+    padding-top: 100px;
+}
+
+.section-footer {
+    padding-left: 700px;
+    margin-top:  -100px;
+}
+
+.lista-footer {
+    display: grid;
+    grid-template-columns: 10% 10% 10%;
+    list-style: none;
+    gap: 0.7em; 
+}
+
+.itens-footer {
+    text-decoration: none;
+    color: black;
+}
+
+.redes {
+    padding-left: 1200px;
+    margin-top: -140px;
+}
 
 @media screen and (max-device-width: 700px) {
 
