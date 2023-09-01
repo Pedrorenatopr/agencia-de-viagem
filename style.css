@@ -349,6 +349,10 @@ span {
     margin-top: -140px;
 }
 
+.texto-app {
+    padding-left: 10px;
+}
+
 @media screen and (max-device-width: 700px) {
 
     .icones {
@@ -474,7 +478,7 @@ span {
 
     .section-quatro {
         padding-left: 0;
-        padding-top: 200px;
+        padding-top: 150px;
     }
 
     .texto-quatro {
@@ -571,7 +575,55 @@ span {
         height: 25px;
     }
 
+    .section-sete {
+        margin-top: 50px;
+    
+    }
+
     .icones-sete {
         display: grid;
     }
+
+    .titulo-footer {
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .legenda-footer {
+        padding-left: 0;
+        text-align: center;
+        width: 100%;
+    }
+
+
+    .section-footer {
+        padding-left: 0;
+        margin-top:  50px;
+    }
+
+    .lista-footer {
+        display: grid;
+        grid-template-columns: 20% 20% 20%;
+        list-style: none;
+        gap: 2em; 
+        justify-content: center;
+    }
+
+    .redes {
+        padding-left: 0;
+        margin-top: 50px;
+        text-align: center;
+    }
+
+    .texto-app {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer {
+        padding-top: 50px;
+    }
+
+    
+    
 }
