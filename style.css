@@ -386,6 +386,8 @@ span {
 
     .menu-itens {
         display: inline-block;
+        text-align: center;
+        width: 100%;
     }
 
     #burguer {
