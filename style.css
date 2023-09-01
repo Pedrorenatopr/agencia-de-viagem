@@ -344,6 +344,11 @@ span {
     color: black;
 }
 
+.inicio-footer {
+    font-weight: bold;
+    padding-left: 0;
+}
+
 .redes {
     padding-left: 1200px;
     margin-top: -140px;
@@ -351,6 +356,12 @@ span {
 
 .texto-app {
     padding-left: 10px;
+}
+
+.copy {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 14px;
 }
 
 @media screen and (max-device-width: 700px) {
@@ -624,6 +635,10 @@ span {
         padding-top: 50px;
     }
 
+    .copy {
+        width: 100%;
+        font-size: 13px;
+    }
     
     
 }
